@@ -2,7 +2,7 @@
 <!-- ![Masterhead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif) -->
 
 <h1 align="left">Hi ☺️ I'm Stancillous Raymond</h1>
-<h3 align="left">I love working on and building things for the web</h3>
+<h4 align="left">I love working on and building things for the web</h4>
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="coding gif" /> 
 
