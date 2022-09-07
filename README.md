@@ -1,8 +1,8 @@
 
 
 
-<h1 align="left">Hi, I'm Stancillous Raymond</h1>
-<h3 align="left">I love working on and building things for the web :)</h3>
+<h1 align="left">Hi ☺️ I'm Stancillous Raymond</h1>
+<h3 align="left">I love working on and building things for the web</h3>
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="coding gif" /> 
 
@@ -15,15 +15,13 @@
 
 <p align="left"> <a href="https://github.com/stancillous" target="blank"><img src="https://img.shields.io/github/followers/stancillous?label=FOLLOW%20STANCILLOUS&logo=github&style=for-the-badge" alt="stanceraymond/></a> </p>
 
-- 📫 How to reach me **stancillousray@gmail.com**
+  <p align="left"></p>
 
+<p align="left"><a href="https://instagram.com/stancillous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stancillous" height="30" width="40" /></a></p>
 
-<p align="left">
-<a href="https://instagram.com/stancillous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stancillous" height="30" width="40" /></a>
-
-</p>
-
-
+  - 📫 How to reach me **stancillousray@gmail.com**
+  
+  <p>Fun fact: Deleted code is debugged code 😄</p>
 
 
 
@@ -41,5 +39,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Fun fact: ...
 -->
