@@ -1,7 +1,8 @@
-### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm STANCILLOUS RAYMOND</h1>
-<h3 align="center">I love building things for the web</h3>
+
+
+<h1 align="center">Hi 👋, I'm Stancillous Raymond</h1>
+<h3 align="center">I love building things for the web :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stancillous&label=Profile%20views&color=0e75b6&style=flat" alt="stancillous" /> </p>
 
