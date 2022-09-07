@@ -19,8 +19,8 @@
  
 <p align="left"><a href="https://instagram.com/stancillous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stancillous" height="30" width="20" /></a></p>
   
- - 📫 How to reach me **stancillousray@gmail.com**
-  
+
+  <h4>Reach me: stancillousray@gmail.com </h4>
   <h4>Fun fact: Deleted code is debugged code 😄</h4>
 
 
@@ -29,7 +29,7 @@
 
 <!--
 **stancillous/stancillous** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ - 📫 How to reach me **stancillousray@gmail.com**
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
