@@ -1,5 +1,5 @@
 
-![Masterhead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
+<!-- ![Masterhead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif) -->
 
 <h1 align="left">Hi ☺️ I'm Stancillous Raymond</h1>
 <h3 align="left">I love working on and building things for the web</h3>
