@@ -21,7 +21,7 @@
   
  - 📫 How to reach me **stancillousray@gmail.com**
   
-  <p>Fun fact: Deleted code is debugged code 😄</p>
+  <h4>Fun fact: Deleted code is debugged code 😄</h4>
 
 
 
