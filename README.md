@@ -1,7 +1,7 @@
 
 
 
-<h1 font-family="satoshi" align="left">Hi ☺️ I'm Stancillous Raymond</h1>
+<h1 align="left">Hi ☺️ I'm Stancillous Raymond</h1>
 <h3 align="left">I love working on and building things for the web</h3>
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="coding gif" /> 
