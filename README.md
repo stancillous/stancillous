@@ -16,10 +16,10 @@
 <p align="left"> <a href="https://github.com/stancillous" target="blank"><img src="https://img.shields.io/github/followers/stancillous?label=FOLLOW%20STANCILLOUS&logo=github&style=for-the-badge" alt="stanceraymond/></a> </p>
 
   <p align="left"></p>
-
-<p align="left"><a href="https://instagram.com/stancillous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stancillous" height="30" width="40" /></a></p>
-
-  - 📫 How to reach me **stancillousray@gmail.com**
+ 
+<p align="left"><a href="https://instagram.com/stancillous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stancillous" height="30" width="20" /></a></p>
+  
+ - 📫 How to reach me **stancillousray@gmail.com**
   
   <p>Fun fact: Deleted code is debugged code 😄</p>
 
