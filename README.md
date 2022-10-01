@@ -2,7 +2,7 @@
 <!-- ![Masterhead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif) -->
 
 <h2 align="left">Hi ☺️ I'm Stancillous Raymond</h2>
-<h4 align="left">I love working on and building things for the web</h4>
+<h5 align="left">I love working on and building things for the web</h5>
 
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="coding gif" /> 
 
@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stancillous&label=Profile%20views&color=0e75b6&style=flat" alt="stancillous" /> </p>
 
-<p> I am currenlty finalizing this <a href="https://spotify-wrapper.netlify.app/">spotify intergrated web app</a> that shows personalized spotify data: top tracks, top artists, recent tracks, info about your public and private playlists. Get recomendations and discover new artists. </p>
+<h6> I am currenlty finalizing this <a href="https://spotify-wrapper.netlify.app/">spotify intergrated web app</a> that shows personalized spotify data: top tracks, top artists, recent tracks, info about your public and private playlists. Get recomendations and discover new artists. </h6>
 
 
 
@@ -19,13 +19,13 @@
 
   <p align="left"></p>
   
- <p><a href="https://stanceray.com/">stanceray.com<a/></p>
-<p><a href="https://t.me/Stancillous">telegram</a></p>
-<p><a href="https://www.instagram.com/stancillous/">instagram</a></p>
-  
+ <h5><a href="https://stanceray.com/">stanceray.com<a/></h5>
+<h5><a href="https://t.me/Stancillous">telegram</a></h5>
+<h5><a href="https://www.instagram.com/stancillous/">instagram</a></h5>
+ <h5><a href="mailto:stancillousray@gmail.com">stancillousray@gmail.com</a></h5>
 
-  <h4>Reach me: stancillousray@gmail.com </h4>
-  <h4>Fun fact: Deleted code is debugged code 😄</h4>
+
+  <h6>Fun fact: Deleted code is debugged code :')</h6>
 
 
 
