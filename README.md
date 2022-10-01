@@ -11,13 +11,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stancillous&label=Profile%20views&color=0e75b6&style=flat" alt="stancillous" /> </p>
 
+<p> I am currenlty finalizing this <a href="https://spotify-wrapper.netlify.app/">spotify intergrated web app</a> that shows personalized spotify data: top tracks, top artists, recent tracks, info about your public and private playlists. Get recomendations and discover new artists. </p>
 
 
-<p align="left"> <a href="https://github.com/stancillous" target="blank"><img src="https://img.shields.io/github/followers/stancillous?label=FOLLOW%20STANCILLOUS&logo=github&style=for-the-badge" alt="stanceraymond/></a> </p>
+
+<p align="left"> <a target="_blank" href="https://github.com/stancillous" target="blank"><img src="https://img.shields.io/github/followers/stancillous?label=FOLLOW%20STANCILLOUS&logo=github&style=for-the-badge" alt="stanceraymond/></a> </p>
 
   <p align="left"></p>
- 
-<p align="left"><a href="https://instagram.com/stancillous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stancillous" height="30" width="20" /></a></p>
+  
+ <p><a href="https://stanceray.com/">stanceray.com<a/></p>
+<p><a href="https://t.me/Stancillous">telegram</a></p>
+<p><a href="https://www.instagram.com/stancillous/">instagram</a></p>
   
 
   <h4>Reach me: stancillousray@gmail.com </h4>
