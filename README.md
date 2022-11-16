@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stancillous&label=Profile%20views&color=0e75b6&style=flat" alt="stancillous" /> </p>
 
-<h6> I am currenlty finalizing this <a href="https://my-muzik.netlify.app/login.html">spotify intergrated web app</a> that shows personalized spotify data: top tracks, top artists, recent tracks, info about your public and private playlists. Get recomendations and discover new artists. </h6>
+<h6> I am currenlty finalizing this <a href="https://my-muzik.netlify.app/">spotify intergrated web app</a> that shows personalized spotify data: top tracks, top artists, recent tracks, info about your public and private playlists. Get recomendations and discover new artists. </h6>
 
 
 
