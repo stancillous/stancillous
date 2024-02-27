@@ -11,7 +11,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stancillous&label=Profile%20views&color=0e75b6&style=flat" alt="stancillous" /> </p>
 
-<h6> Check out my latest project. <a href="https://spotify-insight.netlify.app/">spotify connected app</a> A web app that shows personalized spotify data: top tracks, top artists, recent tracks, info about your public and private playlists. Get recommendations and discover new artists. </h6>
+<h6> Check out my latest project. <a href="https://spotifyinsights.me/">spotify connected app</a> A web app that shows personalized spotify data: top tracks, top artists, recent tracks, info about your public and private playlists. Get recommendations and discover new artists. </h6>
 
 
 
