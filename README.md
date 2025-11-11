@@ -23,4 +23,4 @@
   
  <h5><a href="https://stanceray.com/">stanceray.com<a/></h5>
  <h5><a href="https://www.linkedin.com/in/stancillous//">linkedin</a></h5>
- <h5><a href="mailto:stancillousray@gmail.com">stancillousray@gmail.com</a></h5>
+ <!-- <h5><a href="mailto:stancillousray@gmail.com">stancillousray@gmail.com</a></h5> -->
